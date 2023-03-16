@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Programma dlya tren v git/1.0.0": {
+        "runtime": {
+          "Programma dlya tren v git.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programma dlya tren v git/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
